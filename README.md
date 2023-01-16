@@ -1,6 +1,6 @@
 # mass-print-pdf-python
 
-Very simple program that allows one to do print a PDF to a list of network printers without the need for them to be installed.
+Simple program that allows one to print a PDF to a list of network printers without the need for them to be installed.
 
 1)List each printer on its own separate line in a .txt file
 
